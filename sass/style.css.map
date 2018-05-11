@@ -1,6 +1,10 @@
 {
 "version": 3,
+<<<<<<< HEAD
 "mappings": "AAAA,KAAM;EACJ,KAAK,EAAE,IAAI",
+=======
+"mappings": "AAAA,KAAM;EACJ,KAAK,EAAE,GAAG",
+>>>>>>> devTadek
 "sources": ["style.scss"],
 "names": [],
 "file": "style.css"
